@@ -1,12 +1,12 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
+thumbnail: "/uploads/7.png"
 title: Pineapple
 date: 2019-02-06
 categories:
 - photography
 - blue
 project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+project_fg_color: "#C736EF"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
+![](/uploads/7.png)
