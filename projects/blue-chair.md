@@ -10,3 +10,5 @@ project_fg_color: "#39B2E1"
 Blue chair 2020
 
 ![](/uploads/3.png)
+
+![](/uploads/mike-dorner-173502-unsplash.jpg)
