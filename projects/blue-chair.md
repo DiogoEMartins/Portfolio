@@ -11,4 +11,4 @@ Blue chair 2020
 
 ![](/uploads/3.png)
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+![](/uploads/mike-dorner-173502-unsplash.jpg)`<iframe width`**`=`**`"600" height`**`=`**`"400" allowfullscreen style`**`=`**`"border-style:none;" src`**`=`**`"`![](https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https://pannellum.org/images/alma.jpg)`"></iframe>`
