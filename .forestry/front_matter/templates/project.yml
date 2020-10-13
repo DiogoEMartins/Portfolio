@@ -6,22 +6,16 @@ fields:
   name: thumbnail
   label: Thumbnail
   description: This will only show up on the front page
+- name: '1'
+  type: file
+  config:
+    maxSize: 64
+  label: '1'
 - type: text
   name: title
   label: Title
   config:
     required: true
-- type: datetime
-  name: date
-  label: Date
-  config:
-    required: true
-    date_format: YYYY-MM-DD
-    time_format: ''
-    export_format: YYYY-MM-DD
-    display_utc: true
-  default: now
-  hidden: true
 - type: color
   name: project_bg_color
   config:
