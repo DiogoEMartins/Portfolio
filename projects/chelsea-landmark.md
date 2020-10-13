@@ -11,6 +11,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The
+The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. 
 
 ![](/uploads/gallery-v-a_e.gif)
